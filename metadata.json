@@ -1,0 +1,15 @@
+{
+    "version": "0.1",
+    "id": "PKMNcards",
+    "name":"PKMNcards!",
+    "author": ["AnieleBoży"],
+    "description": "Adds Pokemons to your cards!",
+    "prefix": "pokes",
+    "main_file" : "main.lua",
+    "badge_colour": "5633f2",
+    "badge_text_colour": "ffffff",
+    "display_name": "PKMNcards!",
+    "icon_path": "icon.png",
+    "icon_width": 34,
+    "priority": -2
+}
