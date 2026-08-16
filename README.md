@@ -1,6 +1,3 @@
 # PKMNcards-Balatro-mod
 
-PKMNcards! - a Balatro mod that adds Pokemon TCG inspired mechanics.
-
-# Pokemons
-Currently 151+ Pokemons
+PKMNcards! - a Balatro mod that adds Pokemon Jokers alongside TCG inspired mechanics.
