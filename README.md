@@ -1,4 +1,4 @@
-# PKMNcards! Balatro mod <p align="center">  <img width="64" height="64" alt="" src="https://github.com/user-attachments/assets/c10bd3b2-1689-4249-8a77-674293175f76" /></p>
+# PKMNcards! Balatro mod <p align="center">  <img width="42" height="61.2" alt="" src="https://github.com/user-attachments/assets/c10bd3b2-1689-4249-8a77-674293175f76" /></p>
 
 
 
