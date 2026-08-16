@@ -1,4 +1,4 @@
-# <p align="center"><img align="middle" width="64" height="64"</p> alt="" src="https://github.com/user-attachments/assets/3d149588-643b-479a-914c-124a986f8d58" />PKMNcards! Balatro mod
+# <p align="center"><img width="64" height="64"</p> alt="" src="https://github.com/user-attachments/assets/3d149588-643b-479a-914c-124a986f8d58" />PKMNcards! Balatro mod
 
 
 PKMNcards! - a Balatro mod that adds Pokemon Jokers alongside TCG inspired mechanics.
