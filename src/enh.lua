@@ -318,8 +318,8 @@ SMODS.Enhancement {
         return { vars = { card.ability.bonus } }
     end,
     calculate = function(self, card, context)
-        if context.main_scoring and context.cardarea == G.play then
-            SMODS.change_base(context.other_card, 'Diamonds')
+        if context.modify_scoring_hand then
+            SMODS.change_base(card, 'Diamonds')
         end
     end,
     in_pool = function(self, args)
