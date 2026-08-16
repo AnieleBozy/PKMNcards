@@ -6,3 +6,4 @@ PKMNcards! - a Balatro mod that adds Pokemon Jokers alongside TCG inspired mecha
 - sprites for Pokemons, Trainers, PokeMail come from Pokemon games
 - sprites for Booster Packs and Energy Cards come from Pokémon Trading Card Game and Pokémon Trading Card Game 2
   
+[rip of Evolution Pack](https://www.spriters-resource.com/game_boy_gbc/pokemontradingcardgame2/asset/138827/)
